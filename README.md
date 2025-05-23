@@ -67,7 +67,7 @@
 ## 6. Additional Artefacts  
 - **GitHub Repository:** Includes:  
   - This portfolio (Markdown).  
-  - CV PDF.  
+  - [CV PDF](Josh Lenders Curriculum Vitae 2025 (1).pdf) 
   - Screenshots of assessment marks.  
 - **STAR Reflections:** Linked to each module’s outcomes.  
 
