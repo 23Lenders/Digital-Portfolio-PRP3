@@ -55,7 +55,8 @@
 
 ## 5. CV Submission  
 **Evidence:**  
-- **Submission Date:** 07/03/2025 [View](CVSubmission.pdf)  
+- **Submission Date:** 07/03/2025 [View](CVSubmission.pdf)
+- **CV Review:** [View](CVReview)
 - **Reflection (STAR Technique):**  
   - **Situation:** Submitted CV for formative assessment.  
   - **Task:** Ensure professionalism and completeness.  
@@ -67,7 +68,7 @@
 ## 6. Additional Artefacts  
 - **GitHub Repository:** Includes:  
   - This portfolio (Markdown).  
-  - [CV PDF](Josh Lenders Curriculum Vitae 2025 (1).pdf) 
+  - [CV PDF](JoshLendersCV.pdf) 
   - Screenshots of assessment marks.  
 - **STAR Reflections:** Linked to each module’s outcomes.  
 
